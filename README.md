@@ -6,6 +6,8 @@ Un diseño simple con el cual podrían guisarse para futuros proyectos, la inten
 
 El diseño no es totalmente responsivo, por como se indica anteriormente es para tener una idea del diseño y codigo, los media queries deberan ser escritos a gusto.
 
+Vista Previa: https://juanlugodegouveia.github.io/FrontEnd-AirBNB/
+
 ## Copyright
 
 Copyright 2019 Juan Carlos Lugo
