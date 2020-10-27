@@ -1,10 +1,10 @@
-# Recreando Página de AirBNB.
+# Recreating AirBNB Page.
 
-Diseño Front-End recreando la antigua página de AirBNB, utilizando CSS Grid, flexbox y JavaScript.
+Front-End Design recreating the old AirBNB page, using CSS Grid, flexbox and JavaScript.
 
-El diseño no es totalmente responsivo, los media queries deberan ser escritos según sus necesidades.
+The design is not fully responsive, the media queries should be written according to your needs.
 
-Vista Previa: https://juanlugodegouveia.github.io/FrontEnd-AirBNB/
+Preview: https://juanlugodegouveia.github.io/FrontEnd-AirBNB/
 
 ## Copyright
 
